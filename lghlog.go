@@ -1,7 +1,7 @@
 package lghLog
 
 import (
-	"github.com/lghLog/log4go/l4g"
+	l4g "github.com/lghLog/log4go/l4g"
 	"strings"
 	"os"
 	"fmt"

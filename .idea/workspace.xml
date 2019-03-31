@@ -67,10 +67,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="857" />
-    <option name="y" value="11" />
-    <option name="width" value="2814" />
-    <option name="height" value="2140" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1862" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -103,10 +103,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Loopring" />
-    <property name="go.sdk.automatically.set" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -153,21 +154,18 @@
       <package value="github.com/lghLog" />
       <pattern value="^Test_SimpleInit$" />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Go Test.Test_FindConfigFile in path_test.go" />
-      <item index="1" class="java.lang.String" itemvalue="Go Test.Test_InitLogger in path_test.go" />
-      <item index="2" class="java.lang.String" itemvalue="Go Test.Test_SimpleInit in path_test.go" />
+    <list>
+      <item itemvalue="Go Test.Test_FindConfigFile in path_test.go" />
+      <item itemvalue="Go Test.Test_InitLogger in path_test.go" />
+      <item itemvalue="Go Test.Test_SimpleInit in path_test.go" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Go Test.Test_SimpleInit in path_test.go" />
-        <item index="1" class="java.lang.String" itemvalue="Go Test.Test_InitLogger in path_test.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Test.Test_FindConfigFile in path_test.go" />
+      <list>
+        <item itemvalue="Go Test.Test_SimpleInit in path_test.go" />
+        <item itemvalue="Go Test.Test_InitLogger in path_test.go" />
+        <item itemvalue="Go Test.Test_FindConfigFile in path_test.go" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="TestHistory">
     <history-entry file="Test_SimpleInit_in_path_test_go - 2019.03.03 at 21h 25m 27s.xml">
